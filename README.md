@@ -1,71 +1,102 @@
-# Getting Started with Create React App
+<h1 align="center">🍽️ TasteVista – Restaurant Website</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+A modern and responsive restaurant web application built with React, designed to showcase menus, services, and a smooth user experience.
+</p>
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🌐 Live Demo
 
-### `npm start`
+🔗 https://tastevista.netlify.app/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📂 GitHub Repository
 
-### `npm test`
+🐙 https://github.com/KrGuddu/restaurant-app
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 📸 Screenshots
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Home Page
+![Home Page](./public/images/Home.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### About Page
+![Product Details](./public/images/About.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Menu Page
+![Cart Page](./public/images/Menu.png)
 
-### `npm run eject`
+### Products Page
+![Contact via Map](./public/images/Product.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Review Page
+![Login Page](./public/images/Review.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Contact Page
+![Login Page](./public/images/Contact.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Blog Page
+![Login Page](./public/images/Blog.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Footer Page
+![Login Page](./public/images/Footer.png)
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🧾 About This Project
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+TasteVista is a modern React-based restaurant website focused on clean design, performance, and usability.  
+The application presents restaurant details, food menus, and service information through a visually appealing and responsive user interface.
 
-### Code Splitting
+This project demonstrates strong frontend development practices, including component-based architecture, reusable UI components, and responsive design, making it suitable for portfolios and frontend developer interviews.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## ✨ Features
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- 🍕 Interactive food menu display
+- 🧾 Restaurant information & services
+- 📱 Fully responsive layout (mobile, tablet, desktop)
+- 🎨 Clean and modern UI design
+- ⚡ Smooth navigation and fast performance
+- 🧩 Reusable React components
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 🛠️ Tech Stack
 
-### Advanced Configuration
+- React  
+- JavaScript (ES6+)  
+- HTML5  
+- CSS3  
+- Netlify (Deployment)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## ▶️ Run This Project Locally
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+```bash
+# Clone the repository
+git clone https://github.com/KrGuddu/restaurant-app.git
 
-### `npm run build` fails to minify
+# Navigate to the project directory
+cd restaurant-app
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Install dependencies
+npm install
 
+# Start the development server
+npm start
+
+```
+
+## 👨‍💻 Author
+**Mr. Guddu Kumar**  
+Frontend / React Developer
+
+🌐 Portfolio: https://guddudev.netlify.app
+
+🐙 GitHub: https://github.com/KrGuddu
