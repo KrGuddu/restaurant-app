@@ -8,7 +8,7 @@ A modern and responsive restaurant web application built with React, designed to
 
 ## 🌐 Live Demo
 
-🔗 https://tastevista.netlify.app/
+🔗 https://tastevista.netlify.app
 
 ---
 
@@ -97,6 +97,6 @@ npm start
 **Mr. Guddu Kumar**  
 Frontend / React Developer
 
-🌐 Portfolio: https://guddudev.netlify.app
+🌐 Portfolio: https://krguddu.netlify.app
 
 🐙 GitHub: https://github.com/KrGuddu
